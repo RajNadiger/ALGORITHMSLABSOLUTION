@@ -1,5 +1,3 @@
-package com.greatlearning.lab2;
-
 import java.util.Scanner;
 
 public class TransactionApp {

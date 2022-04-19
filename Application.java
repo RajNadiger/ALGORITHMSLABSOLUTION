@@ -2,7 +2,7 @@ package com.greatlearning.lab2.main;
 
 import java.util.Scanner;
 
-import com.greatlearning.lab2.service.BubbleSortImplementation;
+import com.greatlearning.lab2.service.BubbleSort;
 import com.greatlearning.lab2.service.NotesCountService;
 
 public class App {

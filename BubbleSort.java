@@ -1,5 +1,3 @@
-package com.greatlearning.lab2.service;
-
 public class BubbleSort {
 	public void bubbleSort(int notes[]) {
 		for (int i = 0; i < notes.length; i++) {

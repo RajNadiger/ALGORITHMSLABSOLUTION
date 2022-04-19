@@ -1,5 +1,3 @@
-package com.greatlearning.lab2.main;
-
 import java.util.Scanner;
 
 import com.greatlearning.lab2.service.BubbleSort;

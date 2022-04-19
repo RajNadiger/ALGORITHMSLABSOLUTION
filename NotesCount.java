@@ -1,4 +1,3 @@
-package com.greatlearning.lab2.service;
 
 public class NotesCount {
 
